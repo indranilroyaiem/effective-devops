@@ -840,6 +840,7 @@ git pull REMOTE
 ^ K
 
 ---
+
 # git pull --rebase
 
 * ensure linear history by preventing unnecessary merge commits
@@ -861,6 +862,10 @@ git pull REMOTE
 ---
 
 # Assignment 1
+
+[Effective Devops](http://bit.ly/1JVuLh4)
+
+http://bit.ly/1JVuLh4
 
 Time: 15 minutes
 
